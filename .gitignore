@@ -18,3 +18,4 @@ dbt-core/
 cloud-env
 core-env
 core-env-2
+dbt_internal_packages/
